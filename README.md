@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brandon Dando</h1>
 <h3 align="center">A passionate Fullstack developer from Nairobi, Kenya</h3>
-<img align='right'' alt='coding-image' width='400' src = 'https://i.gifer.com/GYny.gif'>
+<img align='right'' alt='coding-image' width='400' src = 'https://raw.githubusercontent.com/djBrandy/djBrandy/main/assets/matrix-rain.svg'>
 
 
-- 🌱 I’m currently learning **embedded systems engineering with a focus on Arduino programming and microcontroller applications.**
+- 🎓 BSc Electrical & Electronics Engineering student
 
-- 📫 How to reach me **dandotimon64@gmail.com**
+- 🛠️ I design and build websites for clients
+
+- 🤖 Building **Aegis**
+
+- 📈 Background in algorithmic trading system development
+
+- 📫 How to reach me **dandobrandon0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
