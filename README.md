@@ -35,3 +35,6 @@
 <img src="https://img.shields.io/github/followers/djBrandy?style=for-the-badge&logo=github&label=Followers&color=2b3137" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FdjBrandy&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2b3137" alt="Public repos"/>
 </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/djBrandy/djBrandy/main/assets/github-streak.svg" alt="djBrandy github streak"/>
+</p>
