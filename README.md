@@ -3,7 +3,7 @@
 <img align='right'' alt='coding-image' width='400' src = 'https://raw.githubusercontent.com/djBrandy/djBrandy/main/assets/matrix-rain.svg'>
 
 
-- 🎓 BSc Electrical & Electronics Engineering student
+- 🎓 BSc Electrical & Electronics Engineering student, Moringa School SWE graduate
 
 - 🛠️ I design and build websites for clients
 
